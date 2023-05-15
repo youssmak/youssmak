@@ -5,7 +5,7 @@
 ------------------
 
 
-My name is Youssef and I'm a frontend developer from south of France, Montpellier.
+I'm a frontend developer from south of France, Montpellier.
 Today, I work for Talkspirit, un réseau social d'entreprise hebergé en France.
 
 I entered the web with Microsoft FrontPage and Adobe Dreamweaver and started coding in 2002 with Vim, then Notepad++.
