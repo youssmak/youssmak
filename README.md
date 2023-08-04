@@ -6,7 +6,7 @@
 
 
 I'm a frontend developer from south of France, Montpellier.
-Today, I work for Talkspirit, un réseau social d'entreprise hebergé en France.
+Today, I work for AVIV Group, one of the world’s largest real estate tech companies.
 
 I entered the web with Microsoft FrontPage and Adobe Dreamweaver and started coding in 2002 with Vim, then Notepad++.
 Nowadays, VSCode is my favorite editor.
